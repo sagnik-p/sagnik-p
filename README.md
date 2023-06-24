@@ -43,15 +43,17 @@
   <!---
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=true&locale=en&layout=compact" />
   -->
-  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=999999&background=000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=999999&background=000000&ring=059826&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   <!---
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=000000&background=00000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true#gh-light-mode-only" />
   -->
   </a>
-
-
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Thank%20You%20For%20Visiting"/>
-  
-
+  <br>
+<p id="star request" align="center"><i>
+If you found this Interesting,
+Dont forget to leave a ⭐!
+</i></p>
+<br>
+<p align="center" width="100%" id="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thank%20You%20For%20Visiting"/>
 </p>

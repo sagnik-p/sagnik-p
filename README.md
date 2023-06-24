@@ -24,9 +24,5 @@
 
 ## Socials
 <div align="center">
-  <a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer">
-  <img src="https://github.com/sagnik-p/sagnik-p/assets/130753205/6506c777-0ed3-42e5-8d77-64a0cbeaceb6" width="50" height="50"  />
-  </a> 
-  <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://github.com/sagnik-p/sagnik-p/assets/130753205/2719c9de-b651-4efa-95b2-4d1451b621a2" width="50" height="50"/></a>
-  <a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/sagnik-p/sagnik-p/assets/130753205/1776435e-7e3e-4663-abce-c6144fac06f6" width="50" height="50" ></a>
+  <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="50" height="50"/></a><a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"" width="50" height="50"  /></a><a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50" height="50" ></a>
 </div>

@@ -1,6 +1,7 @@
 # Hi ! ![][hand] My Name is Sagnik Pramanik
 [hand]: https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4335074e.gif
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](https://github.com/sagnik-p/sagnik-p/assets/130753205/8f1a6437-c58e-459d-a9c8-be1ef7701ff5)
+
 ## Welcome to My GitHub Profile
 
 #### About me:

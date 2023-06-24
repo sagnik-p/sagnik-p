@@ -1,7 +1,16 @@
 # Hi ! ![][hand] My Name is Sagnik Pramanik
 [hand]: https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4335074e.gif
---------------------------------------------------------
-### Welcome to My GitHub Profile
+--------------------------------------------------------------------------------------------------------------
+## Welcome to My GitHub Profile
+
+#### About me:
+- 👦18, Male
+- 🎓Currently pursuing B.Tech in Computer Science and Engineering
+- 🧑🏽‍💻Backend web developer
+- 🤝Looking to collaborate on Real-World Projects
+- 🔐Cybersecurity Enthusiast
+- 🤖Currently exploring Machine Learning
+
 ## Tech Stack:
 <div id="tech-stack" align=center>
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/8a406c1c-cd8b-4fdb-8cee-2f27c71cb84d width="50" height="50" alt="HTML" />
@@ -22,7 +31,20 @@
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3a52d300-8975-44d9-94f8-792fa3c55eaa width="50" height="50" alt="GCP" />
 </div>
 
-## Socials
+## Socials:
 <div align="center">
-  <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="50" height="50"/></a><a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"" width="50" height="50"  /></a><a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50" height="50" ></a>
-</div>
+  <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="50" height="50"/></a><a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"" width="50" height="50"  /></a><a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50" height="50" ></a></div>
+
+  ## Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&show_icons=true&&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true">
+  <!---
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=true&locale=en&layout=compact" />
+  -->
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=ffffff&background=ffffff&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=555555&hide_border=true" /></a>
+
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Thank%20You%20For%20Visiting"/>
+  
+
+</p>

@@ -36,11 +36,14 @@
   <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="50" height="50"/></a><a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"" width="50" height="50"  /></a><a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50" height="50" ></a></div>
 
   ## Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&show_icons=true&&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true">
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=ffffff&show_icons=true&bg_color=000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=777777&show_icons=true&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only"></a>
   <!---
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=true&locale=en&layout=compact" />
   -->
-  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=ffffff&background=ffffff&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=555555&hide_border=true" /></a>
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=999999&background=000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=000000&background=00000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true#gh-light-mode-only" />
+  </a>
 
 
 <p align="center" width="100%">

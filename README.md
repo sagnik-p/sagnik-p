@@ -5,7 +5,7 @@
 #### About me:
 - 👦18, Male
 - 🎓Currently pursuing B.Tech in Computer Science and Engineering
-- 🧑🏽‍💻Backend web developer
+- 🧑🏽‍💻Full Stack Developer with more focus on Backend
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning

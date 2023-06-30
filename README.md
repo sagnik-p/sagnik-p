@@ -9,6 +9,7 @@
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
+![bootstrap](https://github.com/sagnik-p/sagnik-p/assets/130753205/d5915d5f-7ea2-4196-828b-8bef8a194f12)
 
 ## Tech Stack:
 <div id="tech-stack" align=center>

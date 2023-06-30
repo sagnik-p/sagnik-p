@@ -9,12 +9,12 @@
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
-![bootstrap](https://github.com/sagnik-p/sagnik-p/assets/130753205/d5915d5f-7ea2-4196-828b-8bef8a194f12)
 
 ## Tech Stack:
 <div id="tech-stack" align=center>
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/8a406c1c-cd8b-4fdb-8cee-2f27c71cb84d width="65" height="65" alt="HTML" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/e15fc5cf-9a47-456b-a5f9-9300ec451f33 width="65" height="65" alt="CSS" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/d5915d5f-7ea2-4196-828b-8bef8a194f12 width="65" height="65" alt="Bootstrap CSS" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5f2ea1f7-e7d5-48a8-afe1-ee6598bb9b78 width="65" height="65" alt="Javascript" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67ee652c-2d16-4a0e-bb70-10238896c0d6 width="65" height="65" alt="React" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3582cc10-65e2-4ee4-93ed-47712c193db8 width="65" height="65" alt="Node JS" />

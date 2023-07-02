@@ -1,3 +1,4 @@
+![15548510131579517840-512](https://github.com/sagnik-p/sagnik-p/assets/130753205/0e343b0e-2624-4f91-ba0d-c928f6242737)
 # Hi ! ![][hand] My Name is Sagnik Pramanik
 [hand]: https://user-images.githubusercontent.com/18365557/176309783-0785949b-9127-417c-8b55-ab5a4336574e.gif
 ![](https://github.com/sagnik-p/sagnik-p/assets/130753205/8f1a6437-c58e-459d-a9c8-be1ef7701ff5)
@@ -9,6 +10,8 @@
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
+![Uploading arduino.png…]()
+![Uploading raspberrypi.png…]()
 
 ## Tech Stack:
 <div id="tech-stack" align=center>

@@ -10,8 +10,11 @@
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
-![Uploading arduino.png…]()
+![arduino](https://github.com/sagnik-p/sagnik-p/assets/130753205/82299d86-ef35-42bb-8535-b6027f211d05)
+![raspberrypi](https://github.com/sagnik-p/sagnik-p/assets/130753205/fbfbb8d4-40ae-4e0d-ad8c-40122f0c760f)
 ![Uploading raspberrypi.png…]()
+![Uploading arduino.png…]()
+![15548510131579517840-512](https://github.com/sagnik-p/sagnik-p/assets/130753205/39a99118-79b5-48c9-b6c2-9bf464eacd63)
 
 ## Tech Stack:
 <div id="tech-stack" align=center>

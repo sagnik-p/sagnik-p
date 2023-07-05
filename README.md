@@ -10,6 +10,7 @@
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
 ![icons8-amazon-web-services-480](https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae)
+![icons8-firebase-480](https://github.com/sagnik-p/sagnik-p/assets/130753205/5c62341a-b7f7-4ab9-aa35-3a0485ce3fd5)
 
 ![icons8-linux-100-2](https://github.com/sagnik-p/sagnik-p/assets/130753205/94665b65-f605-41e1-a2be-17f6e27265db)
 ![icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference-100-2](https://github.com/sagnik-p/sagnik-p/assets/130753205/9cdd151b-6fda-4235-b8a2-2aa3880b5d52)

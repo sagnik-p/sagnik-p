@@ -23,12 +23,10 @@
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5f2ea1f7-e7d5-48a8-afe1-ee6598bb9b78 width="65" height="65" alt="Javascript" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67ee652c-2d16-4a0e-bb70-10238896c0d6 width="65" height="65" alt="React" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3582cc10-65e2-4ee4-93ed-47712c193db8 width="65" height="65" alt="Node JS" />
-
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9cdd151b-6fda-4235-b8a2-2aa3880b5d52 width="65" height="65" alt="Kotlin" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/94665b65-f605-41e1-a2be-17f6e27265db width="65" height="65" alt="Linux" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae width="65" height="65" alt="AWS" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5c62341a-b7f7-4ab9-aa35-3a0485ce3fd5 width="65" height="65" alt="Firebase" />
-
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/f84a1178-504b-472e-8e72-fd0f2772d9ab width="65" height="65" alt="C" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/6b5994fa-54b5-4317-b3fc-6108b3fc82de width="65" height="65" alt="C++" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/ab51e791-2743-4ca5-8102-1e80638ad28c width="65" height="65" alt="Java" />

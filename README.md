@@ -9,8 +9,6 @@
 - 🤝Looking to collaborate on Real-World Projects
 - 🔐Cybersecurity Enthusiast
 - 🤖Currently exploring Machine Learning
-![icons8-express-js-500](https://github.com/sagnik-p/sagnik-p/assets/130753205/3dcd0125-ab00-4359-b35b-848de0fd9f55)
-![icons8-git-144](https://github.com/sagnik-p/sagnik-p/assets/130753205/136b62ef-9649-465c-b476-bf1d536c0712)
 
 ## Tech Stack:
 <div id="tech-stack" align=center>
@@ -18,6 +16,7 @@
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/e15fc5cf-9a47-456b-a5f9-9300ec451f33 width="65" height="65" alt="CSS" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/d5915d5f-7ea2-4196-828b-8bef8a194f12 width="65" height="65" alt="Bootstrap CSS" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5f2ea1f7-e7d5-48a8-afe1-ee6598bb9b78 width="65" height="65" alt="Javascript" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3dcd0125-ab00-4359-b35b-848de0fd9f55 width="65" height="65" alt="Express" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67ee652c-2d16-4a0e-bb70-10238896c0d6 width="65" height="65" alt="React" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3582cc10-65e2-4ee4-93ed-47712c193db8 width="65" height="65" alt="Node JS" />
     <br>
@@ -34,9 +33,10 @@
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67e8bcc1-7330-4c9e-9faf-21fa95220fb9 width="65" height="65" alt="MongoDB" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/32388a33-3f2b-4ef3-b843-28f86e779f59 width="65" height="65" alt="MySQL" />
     <br>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9e25ddcf-54da-4498-a00f-3876dbbcf904 width="65" height="65" alt="Postman API" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9e25ddcf-54da-4498-a00f-3876dbbcf904 width="65" height="65" alt="Postman API" /><img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/136b62ef-9649-465c-b476-bf1d536c0712 width="65" height="65" alt="Git" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/94665b65-f605-41e1-a2be-17f6e27265db width="65" height="65" alt="Linux" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae width="65" height="65" alt="AWS" /><img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3a52d300-8975-44d9-94f8-792fa3c55eaa width="65" height="65" alt="GCP" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae width="65" height="65" alt="AWS" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3a52d300-8975-44d9-94f8-792fa3c55eaa width="65" height="65" alt="GCP" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5c62341a-b7f7-4ab9-aa35-3a0485ce3fd5 width="65" height="65" alt="Firebase" />
     
 </div>

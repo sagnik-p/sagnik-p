@@ -46,6 +46,7 @@
   <a href="https://www.linkedin.com/in/sagnik-pramanik-53284b272/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="65" height="65"/></a><a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"" width="65" height="65"  /></a><a href="mailto:sagnikpramanik95@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="65" height="65" ></a></div>
 
   ## Stats:
+  <p align="center">
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=ffffff&show_icons=true&bg_color=000000&hide=stars&include_all_commits=true&hide_border=true">
   <!---
   <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=777777&show_icons=true&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only"></a>
@@ -58,6 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=000000&background=00000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true#gh-light-mode-only" />
   -->
   </a>
+  </p>
   <br>
 <p id="star request" align="center"><i>
 If you found this Interesting,

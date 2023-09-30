@@ -7,8 +7,7 @@
 - 🎓Currently pursuing B.Tech in Computer Science and Engineering
 - 🧑🏽‍💻Full Stack Developer with more focus on Backend
 - 🤝Looking to collaborate on Real-World Projects
-- 🔐Cybersecurity Enthusiast
-- 🤖Currently exploring Machine Learning
+- 🤖Currently exploring Machine Learning, specially Computer Vision, NLP and CNNs
 
 ## Tech Stack:
 <div id="tech-stack" align=center>
@@ -48,8 +47,8 @@
   ## Stats:
  
   <p align="center">
-  [![sagnik-p 's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&custom_title=My%20Contributions&hide_border=true&theme=react-dark)](https://github.com/sagnik-ps/github-readme-activity-graph)
 
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
   <!--
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=ffffff&show_icons=true&bg_color=000000&hide=stars&include_all_commits=true&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=777777&show_icons=true&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only"></a>
@@ -57,6 +56,7 @@
   -->
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=999999&background=000000&ring=059826&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   <!---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=truelocale=en&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=000000&background=00000000&ring=059826&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true#gh-light-mode-only" />
   -->
   </a>

@@ -47,8 +47,8 @@
   ## Stats:
  
   <p align="center">
-  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
   <!--
+  <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=ffffff&show_icons=true&bg_color=000000&hide=stars&include_all_commits=true&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=777777&show_icons=true&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only"></a>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=true&locale=en&layout=compact" />

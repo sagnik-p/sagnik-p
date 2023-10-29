@@ -52,6 +52,7 @@
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=ffffff&show_icons=true&bg_color=000000&hide=stars&include_all_commits=true&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=sagnik-p&text_color=777777&show_icons=true&bg_color=00000000&hide=stars&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only"></a>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-p&show_icons=true&locale=en&layout=compact" />
+  <td valign="top"><p><img height = "200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-p&layout=compact&theme=radical&custom_title=Languages" alt="sagnik-p" /></p></td>
   -->
   <a href="http://www.github.com/sagnik-p"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik-p&stroke=999999&background=000000&ring=059826&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   <!---
@@ -68,4 +69,5 @@ Dont forget to leave a ⭐!
 <br>
 <p align="center" width="100%" id="footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thank%20You%20For%20Visiting"/>
+  
 </p>

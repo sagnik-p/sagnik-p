@@ -3,14 +3,35 @@
 ![](https://github.com/sagnik-p/sagnik-p/assets/130753205/8f1a6437-c58e-459d-a9c8-be1ef7701ff5)
 ## Welcome to My GitHub Profile
 #### About me:
-- 👦18, Male
-- 🎓Currently pursuing B.Tech in Computer Science and Engineering
-- 🧑🏽‍💻Full Stack Developer with more focus on Backend
+- 🧑🏽‍💻ML
+- 🧑🏽‍💻IoT
+- 🎓Pursuing B.Tech in Computer Science and Engineering
 - 🤝Looking to collaborate on Real-World Projects
-- 🤖Currently exploring Machine Learning, specially Computer Vision, NLP and CNNs
+- 🤖Currently exploring Advanced Deep Learning
 
 ## Tech Stack:
 <div id="tech-stack" align=center>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/f171337e-21b2-466b-bad6-86a49b0f6192 width="80" height="80" alt="Python" />
+    <br>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/82299d86-ef35-42bb-8535-b6027f211d05 width="65" height="65" alt="Arduino" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/fbfbb8d4-40ae-4e0d-ad8c-40122f0c760f width="65" height="65" alt="Raspberry Pi"/>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/39a99118-79b5-48c9-b6c2-9bf464eacd63 width="65" height="65" alt="Expressif" />
+    <br>
+    <br>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9e25ddcf-54da-4498-a00f-3876dbbcf904 width="65" height="65" alt="Postman API" /><img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/136b62ef-9649-465c-b476-bf1d536c0712 width="65" height="65" alt="Git" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/94665b65-f605-41e1-a2be-17f6e27265db width="65" height="65" alt="Linux" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae width="65" height="65" alt="AWS" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3a52d300-8975-44d9-94f8-792fa3c55eaa width="65" height="65" alt="GCP" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5c62341a-b7f7-4ab9-aa35-3a0485ce3fd5 width="65" height="65" alt="Firebase" />
+    <br>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67e8bcc1-7330-4c9e-9faf-21fa95220fb9 width="65" height="65" alt="MongoDB" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/32388a33-3f2b-4ef3-b843-28f86e779f59 width="65" height="65" alt="MySQL" />
+    <br>
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/f84a1178-504b-472e-8e72-fd0f2772d9ab width="65" height="65" alt="C" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/6b5994fa-54b5-4317-b3fc-6108b3fc82de width="65" height="65" alt="C++" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/ab51e791-2743-4ca5-8102-1e80638ad28c width="65" height="65" alt="Java" />
+    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9cdd151b-6fda-4235-b8a2-2aa3880b5d52 width="65" height="65" alt="Kotlin" />
+    <br>
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/8a406c1c-cd8b-4fdb-8cee-2f27c71cb84d width="65" height="65" alt="HTML" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/e15fc5cf-9a47-456b-a5f9-9300ec451f33 width="65" height="65" alt="CSS" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/d5915d5f-7ea2-4196-828b-8bef8a194f12 width="65" height="65" alt="Bootstrap CSS" />
@@ -19,24 +40,6 @@
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67ee652c-2d16-4a0e-bb70-10238896c0d6 width="65" height="65" alt="React" />
     <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3582cc10-65e2-4ee4-93ed-47712c193db8 width="65" height="65" alt="Node JS" />
     <br>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/82299d86-ef35-42bb-8535-b6027f211d05 width="65" height="65" alt="Arduino" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/fbfbb8d4-40ae-4e0d-ad8c-40122f0c760f width="65" height="65" alt="Raspberry Pi"/>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/39a99118-79b5-48c9-b6c2-9bf464eacd63 width="65" height="65" alt="Expressif" />
-    <br>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/f84a1178-504b-472e-8e72-fd0f2772d9ab width="65" height="65" alt="C" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/6b5994fa-54b5-4317-b3fc-6108b3fc82de width="65" height="65" alt="C++" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/ab51e791-2743-4ca5-8102-1e80638ad28c width="65" height="65" alt="Java" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9cdd151b-6fda-4235-b8a2-2aa3880b5d52 width="65" height="65" alt="Kotlin" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/f171337e-21b2-466b-bad6-86a49b0f6192 width="65" height="65" alt="Python" />
-    <br>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/67e8bcc1-7330-4c9e-9faf-21fa95220fb9 width="65" height="65" alt="MongoDB" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/32388a33-3f2b-4ef3-b843-28f86e779f59 width="65" height="65" alt="MySQL" />
-    <br>
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/9e25ddcf-54da-4498-a00f-3876dbbcf904 width="65" height="65" alt="Postman API" /><img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/136b62ef-9649-465c-b476-bf1d536c0712 width="65" height="65" alt="Git" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/94665b65-f605-41e1-a2be-17f6e27265db width="65" height="65" alt="Linux" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/73f92183-fce0-4412-ad7f-63a71aeaf3ae width="65" height="65" alt="AWS" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/3a52d300-8975-44d9-94f8-792fa3c55eaa width="65" height="65" alt="GCP" />
-    <img src=https://github.com/sagnik-p/sagnik-p/assets/130753205/5c62341a-b7f7-4ab9-aa35-3a0485ce3fd5 width="65" height="65" alt="Firebase" />
     
 </div>
 

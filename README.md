@@ -81,11 +81,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-p&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="90%"/>
 </div>
 

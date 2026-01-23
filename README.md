@@ -25,54 +25,18 @@
 **Sync.** | YC & Google-backed Startup | San Francisco (Remote)  
 *Feb 2025 – Jan 2026*
 
-- Engineered services and pipelines that **reduced manual effort by 90%** and made processes **3x faster**
-- Worked on Computer Vision Models, Pipelines, and Model Optimization techniques
-- Delivered scalable production-grade applications with advanced multimedia processing
-- Leveraged Sync.so's API to support demos for **10+ enterprise clients**
-
+---
 ### 🔹 Software Engineering Intern
 **Verific Design Automation** | Leading EDA Provider since 1999 | Kolkata (Hybrid)  
 *Jun 2025 – Aug 2025*
 
-- Automated test case generation, **reducing manual effort by over 95%**
-- Built custom integrations with Invio, enabling scalable validation workflows
-- Developed an internal **RAG application** to streamline query resolution
-- Improved accuracy and productivity for engineering teams and customers
-
+---
 ### 🔹 Associate Cloud Developer
 **BlueVector.ai** | Cloud-native AI Solutions | Denver (Remote)  
 *Nov 2024 – Feb 2025*
 
-- Contributed to **3 enterprise-scale projects** (Lurie Children's Hospital, Michigan Department of Corrections)
-- Streamlined workflows used by **over 16,100 staff members**
-- Delivered **2 internal projects** adopted company-wide, supporting 50+ employees
-- Participated in full Agile development lifecycle of SnapApp (proprietary low-code platform)
-
 ---
 
-## 🚀 Featured Projects
-
-### 🎥 DeHazeXpert: Real-Time Video Dehazing Engine
-**Computer Vision | Edge Computing**
-
-- First-ever solution for videos that runs entirely **on-device** with near-zero latency
-- Processes 720p video stream at **15 fps** with **200 ms latency** on CPU systems
-- With GPU and CuPY: **sub-30 ms latency** and **150+ fps** at 1080p
-- Removes smoke/haze from videos to produce significantly clearer output
-
-**Tech Stack:** Python, OpenCV, NumPy
-
-### 🎤 HireLens: Agentic AI Voice Interviewer
-**Generative AI | Multi-Agent System**
-
-- Architected an autonomous voice interviewer using Twilio with real-time barge-in
-- Integrated resume parsing, adaptive questioning, tamper detection
-- Automated rubric scoring with silence recovery capabilities
-- Multi-agent system for intelligent interview management
-
-**Tech Stack:** Python, Flask, LLMs, Twilio
-
----
 
 ## 🛠️ Tech Stack
 
@@ -117,12 +81,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagnik-p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-p&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sagnik-p&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik-p&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -131,18 +91,8 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## Certifications
 
-<div align="center">
-
-### 🎯 Hackathons & Competitions
-- 🥇 **Winner of HackNITR 5.0** - India's Largest Student-run Hackathon
-
-### 📝 Research Publications
-- 📄 **Springer LNCS** (Volume 15505) - ICAA Conference
-- 📄 **IEEE** Publication
-
-### 🎓 Certifications
 - **Oracle OCI 2025** - Certified Data Science Professional
 - **Oracle OCI 2025** - Generative AI Professional
 - **DeepLearning.AI** - Machine Learning & Deep Learning Specializations
@@ -154,17 +104,10 @@
 - **AWS** - Cloud Technical Essentials
 - **GCP** - Operations (x8 certifications)
 
-</div>
+
 
 ---
 
-## 📈 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagnik-p&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -172,14 +115,11 @@
   <a href="https://www.linkedin.com/in/sagnik-pramanik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Sagnikkkkkkkkk" target="_blank">
+  <a href="https://x.com/Sagnikkkkkkkkk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:sagnikpramanik95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/sagnik-p" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 

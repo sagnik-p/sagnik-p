@@ -25,6 +25,7 @@
 *YC and Google-backed startup in the Bay Area, pioneering advanced video lip-syncing and editing.*
 
 🔹 **Forward Deployed Engineer** — *Mar 2026 – Present*
+
 🔹 **Machine Learning Engineering Intern** — *Feb 2025 – Feb 2026*
 
 ---

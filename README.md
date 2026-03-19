@@ -21,19 +21,25 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Machine Learning Engineering Intern
-**Sync.** | YC & Google-backed Startup | San Francisco (Remote)  
-*Feb 2025 – Jan 2026*
+### Sync. | San Francisco (Remote)
+*YC and Google-backed startup in the Bay Area, pioneering advanced video lip-syncing and editing.*
+
+🔹 **Forward Deployed Engineer** — *Mar 2026 – Present*
+🔹 **Machine Learning Engineering Intern** — *Feb 2025 – Feb 2026*
 
 ---
-### 🔹 Software Engineering Intern
-**Verific Design Automation** | Leading EDA Provider since 1999 | Kolkata (Hybrid)  
-*Jun 2025 – Aug 2025*
+
+### Verific Design Automation | Alameda, California (Remote)
+*Leading provider of tools for semiconductor teams and EDA since 1999.*
+
+🔹 **Software Engineering Intern** — *Jun 2025 – Aug 2025*
 
 ---
-### 🔹 Associate Cloud Developer
-**BlueVector.ai** | Cloud-native AI Solutions | Denver (Remote)  
-*Nov 2024 – Feb 2025*
+
+### BlueVector.ai | Colorado, Denver (Remote)
+*Provides cloud-native and AI-driven solutions for the US government and healthcare sectors.*
+
+🔹 **Associate Cloud Developer** — *Nov 2024 – Feb 2025*
 
 ---
 

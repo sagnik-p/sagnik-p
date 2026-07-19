@@ -40,19 +40,13 @@
 ## 💼 Experience
 
 ### 🎬 sync. labs - <em>San Francisco, CA (Remote)</em> · YC W24
-> 🚀 Backed by **Y Combinator** & **Google** - building the world's most advanced **AI video lip-syncing & editing** engine.
-
 **Forward Deployed Engineer** · *Mar 2026 - Present*<br/>
 **Machine Learning Engineer Intern** · *Feb 2025 - Mar 2026*
 
 ### 🔧 Verific Design Automation - <em>Alameda, CA (On-site - Kolkata)</em>
-> ⚙️ The **industry standard** for semiconductor front-end tools - powering **EDA** worldwide since **1999**.
-
 **Software Engineering Intern** · *Jun 2025 - Aug 2025*
 
 ### ☁️ BlueVector.ai - <em>Denver, CO (Remote)</em>
-> 🏛️ **Cloud-native, AI-driven** solutions trusted by the **US government** & **healthcare** sectors.
-
 **Associate Cloud Developer** · *Nov 2024 - Feb 2025*
 
 ---

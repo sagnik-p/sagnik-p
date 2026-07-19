@@ -28,32 +28,32 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Forward Deployed Engineer @ [sync. labs](https://sync.so)** — YC W24, Google-backed startup pioneering AI video lip-syncing & editing
-- 🎓 **B.Tech in Computer Science & Engineering** graduate @ Heritage Institute of Technology, Kolkata — **CGPA 9.6**
-- 🏆 **Winner of HackNITR 5.0** — India's largest student-run hackathon
-- 📚 **2x Published Researcher** — Springer LNCS (vol 15505) & IEEE
-- ⭐ **LinkedIn Top Voice (x5)** — Machine Learning, Deep Learning, AI, Computer Vision & IoT
+- 🚀 **Forward Deployed Engineer @ [sync. labs](https://sync.so)** - YC W24, Google-backed startup pioneering AI video lip-syncing & editing
+- 🎓 **B.Tech in Computer Science & Engineering** graduate @ Heritage Institute of Technology, Kolkata - **CGPA 9.6**
+- 🏆 **Winner of HackNITR 5.0** - India's largest student-run hackathon
+- 📚 **2x Published Researcher** - Springer LNCS (vol 15505) & IEEE
+- ⭐ **LinkedIn Top Voice (x5)** - Machine Learning, Deep Learning, AI, Computer Vision & IoT
 - 🤖 Obsessed with **Agentic AI**, **real-time Computer Vision**, and shipping ML that actually reaches production
 
 ---
 
 ## 💼 Experience
 
-### 🎬 sync. labs — <em>San Francisco, CA (Remote)</em> · YC W24
-> 🚀 Backed by **Y Combinator** & **Google** — building the world's most advanced **AI video lip-syncing & editing** engine.
+### 🎬 sync. labs - <em>San Francisco, CA (Remote)</em> · YC W24
+> 🚀 Backed by **Y Combinator** & **Google** - building the world's most advanced **AI video lip-syncing & editing** engine.
 
-**Forward Deployed Engineer** · *Mar 2026 – Present*<br/>
-**Machine Learning Engineer Intern** · *Feb 2025 – Mar 2026*
+**Forward Deployed Engineer** · *Mar 2026 - Present*<br/>
+**Machine Learning Engineer Intern** · *Feb 2025 - Mar 2026*
 
-### 🔧 Verific Design Automation — <em>Alameda, CA</em>
-> ⚙️ The **industry standard** for semiconductor front-end tools — powering **EDA** worldwide since **1999**.
+### 🔧 Verific Design Automation - <em>Alameda, CA</em>
+> ⚙️ The **industry standard** for semiconductor front-end tools - powering **EDA** worldwide since **1999**.
 
-**Software Engineering Intern** · *Jun 2025 – Aug 2025*
+**Software Engineering Intern** · *Jun 2025 - Aug 2025*
 
-### ☁️ BlueVector.ai — <em>Denver, CO (Remote)</em>
+### ☁️ BlueVector.ai - <em>Denver, CO (Remote)</em>
 > 🏛️ **Cloud-native, AI-driven** solutions trusted by the **US government** & **healthcare** sectors.
 
-**Associate Cloud Developer** · *Nov 2024 – Feb 2025*
+**Associate Cloud Developer** · *Nov 2024 - Feb 2025*
 
 ---
 

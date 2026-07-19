@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 **Forward Deployed Engineer @ [sync.](https://sync.so)** — YC W24, Google-backed startup pioneering AI video lip-syncing & editing
-- 🎓 Final-year **Computer Science & Engineering** student @ Heritage Institute of Technology, Kolkata — **CGPA 9.6**
+- 🎓 **B.Tech in Computer Science & Engineering** graduate @ Heritage Institute of Technology, Kolkata — **CGPA 9.6**
 - 🏆 **Winner of HackNITR 5.0** — India's largest student-run hackathon
 - 📚 **2x Published Researcher** — Springer LNCS (vol 15505) & IEEE
 - ⭐ **LinkedIn Top Voice (x5)** — Machine Learning, Deep Learning, AI, Computer Vision & IoT
@@ -61,37 +61,6 @@
 **Associate Cloud Developer** · *Nov 2024 – Feb 2025*
 - 🏥 Contributed to **3 enterprise-scale projects** — including **Lurie Children's Hospital, Chicago** & **The Michigan Dept. of Corrections** — streamlining workflows for **16,100+ staff**
 - 🛠️ Delivered **2 company-wide internal tools** supporting 50+ employees; full Agile lifecycle on **SnapApp**, a proprietary low-code platform
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌫️ DeHazeXpert</h3>
-      <p align="center"><em>Real-Time Video Dehazing Engine</em></p>
-      <p>First-ever fully <b>on-device</b> smoke/haze removal for video with near-zero latency. Processes 720p @ <b>15 fps (200 ms)</b> on plain CPUs — and hits <b>sub-30 ms latency at 150+ fps in 1080p</b> with GPU + CuPy.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CuPy-1a1b26?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎙️ HireLens</h3>
-      <p align="center"><em>Agentic AI Voice Interviewer</em></p>
-      <p>Autonomous <b>multi-agent</b> voice interviewer over Twilio with real-time <b>barge-in & silence recovery</b>. Integrated resume parsing, adaptive questioning, tamper detection, and automated rubric scoring.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-1a1b26?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLMs-bb9af7?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -136,59 +105,7 @@
 
 ### ⚡ AI-Native Tooling
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1a1b26?style=for-the-badge&logoColor=white)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagnik-p/sagnik-p/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagnik-p/sagnik-p/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sagnik-p/sagnik-p/output/github-contribution-grid-snake.svg" width="90%"/>
-  </picture>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik-p&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=414868&hide_border=true&custom_title=Contribution%20Graph" width="92%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Winner — HackNITR 5.0**, India's largest student-run hackathon
-- 📄 **Research Publications (x2)** — Springer LNCS vol 15505 & IEEE
-
-<details>
-<summary><b>📜 View all certifications</b></summary>
-<br/>
-
-- **Oracle OCI 2025** — Certified Data Science Professional
-- **Oracle OCI 2025** — Generative AI Professional
-- **DeepLearning.AI** — Machine Learning & Deep Learning Specializations
-- **Stanford** — Machine Learning Specialization
-- **Google** — Advanced Data Analytics Professional Certificate
-- **Google** — Cybersecurity Professional Certificate
-- **Google** — Project Management Professional Certificate
-- **AWS** — Cloud Practitioner Essentials · Cloud Technical Essentials
-- **GCP** — Operations (x8 certifications)
-
-</details>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Always+open+to+collaboration+%26+new+opportunities!" alt="Outro"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=160&section=footer" width="100%"/>
 </div>

@@ -22,7 +22,6 @@
   <a href="mailto:sagnikpramanik95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sagnik-p&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---

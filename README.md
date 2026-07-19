@@ -45,22 +45,16 @@
 
 **Forward Deployed Engineer** · *Mar 2026 – Present*<br/>
 **Machine Learning Engineer Intern** · *Feb 2025 – Mar 2026*
-- ⚡ Engineered services & pipelines that cut manual effort by **90%** and made them **3× faster** — computer vision models, pipelines & model optimization
-- 📦 Delivered **scalable production-grade applications** with advanced multimedia processing for **10+ enterprise clients**
 
 ### 🔧 Verific Design Automation — <em>Alameda, CA</em>
 > The leading provider of front-end tools for semiconductor teams and EDA since 1999.
 
 **Software Engineering Intern** · *Jun 2025 – Aug 2025*
-- 🤖 Automated test-case generation with advanced Python scripting & custom **Invio** integrations — reducing manual effort by **95%+**
-- 🔍 Built an internal **RAG application** that streamlined query resolution for engineering teams and customers
 
 ### ☁️ BlueVector.ai — <em>Denver, CO (Remote)</em>
 > Cloud-native, AI-driven solutions for the US government and healthcare sectors.
 
 **Associate Cloud Developer** · *Nov 2024 – Feb 2025*
-- 🏥 Contributed to **3 enterprise-scale projects** — including **Lurie Children's Hospital, Chicago** & **The Michigan Dept. of Corrections** — streamlining workflows for **16,100+ staff**
-- 🛠️ Delivered **2 company-wide internal tools** supporting 50+ employees; full Agile lifecycle on **SnapApp**, a proprietary low-code platform
 
 ---
 

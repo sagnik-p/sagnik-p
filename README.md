@@ -45,7 +45,7 @@
 **Forward Deployed Engineer** · *Mar 2026 - Present*<br/>
 **Machine Learning Engineer Intern** · *Feb 2025 - Mar 2026*
 
-### 🔧 Verific Design Automation - <em>Alameda, CA</em>
+### 🔧 Verific Design Automation - <em>Alameda, CA (On-site - Kolkata)</em>
 > ⚙️ The **industry standard** for semiconductor front-end tools - powering **EDA** worldwide since **1999**.
 
 **Software Engineering Intern** · *Jun 2025 - Aug 2025*

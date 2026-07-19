@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sagnik!+%F0%9F%91%8B;Forward+Deployed+Engineer+%40+sync.+(YC+W24);Agentic+AI+%26+Real-Time+Vision+Systems;2x+Published+Researcher+%E2%80%A2+Hackathon+Winner" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sagnik!+%F0%9F%91%8B;Forward+Deployed+Engineer+%40+sync.+labs+(YC+W24);Agentic+AI+%26+Real-Time+Vision+Systems;2x+Published+Researcher+%E2%80%A2+Hackathon+Winner" alt="Typing intro"/>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Forward Deployed Engineer @ [sync.](https://sync.so)** — YC W24, Google-backed startup pioneering AI video lip-syncing & editing
+- 🚀 **Forward Deployed Engineer @ [sync. labs](https://sync.so)** — YC W24, Google-backed startup pioneering AI video lip-syncing & editing
 - 🎓 **B.Tech in Computer Science & Engineering** graduate @ Heritage Institute of Technology, Kolkata — **CGPA 9.6**
 - 🏆 **Winner of HackNITR 5.0** — India's largest student-run hackathon
 - 📚 **2x Published Researcher** — Springer LNCS (vol 15505) & IEEE
@@ -40,10 +40,10 @@
 
 ## 💼 Experience
 
-### 🎬 sync. — <em>San Francisco, CA (Remote)</em> · YC W24
+### 🎬 sync. labs — <em>San Francisco, CA (Remote)</em> · YC W24
 > Google-backed startup pioneering advanced AI video lip-syncing and editing.
 
-**Forward Deployed Engineer** · *Mar 2026 – Present*
+**Forward Deployed Engineer** · *Mar 2026 – Present*<br/>
 **Machine Learning Engineer Intern** · *Feb 2025 – Mar 2026*
 - ⚡ Engineered services & pipelines that cut manual effort by **90%** and made them **3× faster** — computer vision models, pipelines & model optimization
 - 📦 Delivered **scalable production-grade applications** with advanced multimedia processing for **10+ enterprise clients**
